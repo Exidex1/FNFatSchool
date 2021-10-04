@@ -1,15 +1,14 @@
 {
-    "song": {
-        "player2": "dad",
-        "player1": "bf",
-        "stage": "stage",
-        "speed": 2.8,
-        "needsVoices": false,
-        "sectionLengths": [],
-        "song": "fresh",
-        "notes": [],
-        "bpm": 80,
-        "sections": 0,
-        "validScore": true
-    }
+  "song": {
+    "player1": "bf",
+    "sectionLengths": [],
+    "notes": [],
+    "player2": "tankman",
+    "song": "fresh",
+    "validScore": true,
+    "sections": 0,
+    "needsVoices": true,
+    "bpm": 90,
+    "speed": 2.8
+  }
 }
